@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**faisal-010/faisal-010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an aspiring Cloud Engineer with a strong interest in building reliable, scalable, and well-structured cloud infrastructure.  
+I focus on learning by doing and improving my skills through hands-on projects.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What am I currently working on?
+
+- Building cloud infrastructure labs and small projects  
+- Learning cloud fundamentals and best practices  
+- Improving my Linux, networking, and automation skills  
+- Documenting everything I build here on GitHub
+
+
+## 🛠️ Tools & Technologies
+
+- Cloud Platforms: AWS  
+- Operating Systems: Linux  
+- Networking: TCP/IP, DNS, HTTP, basic routing  
+- Infrastructure & Automation: Terraform (learning), Bash  
+- Version Control: Git & GitHub
+
+
+## 📫 How to reach me?
+
+- GitHub: here 👈   
+- LinkedIn: https://www.linkedin.com/in/faisal-abdulsalam-592535252
