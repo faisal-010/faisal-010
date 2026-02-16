@@ -1,24 +1,34 @@
 ## Hi there 👋
 
-I’m an aspiring Cloud Engineer with a strong interest in building reliable, scalable, and well-structured cloud infrastructure.  
-I focus on learning by doing and improving my skills through hands-on projects.
+I’m a Data Engineer focused on building scalable data pipelines and transforming raw data into reliable, structured datasets for analytics and business insights.
+I specialize in SQL and Python, with hands-on experience designing ETL workflows and working with relational databases.
 
 
 ## 🚀 What am I currently working on?
 
-- Building cloud infrastructure labs and small projects  
-- Learning cloud fundamentals and best practices  
-- Improving my Linux, networking, and automation skills  
-- Documenting everything I build here on GitHub
+Building end-to-end ETL / ELT pipelines
 
+Practicing advanced SQL query optimization
 
-## 🛠️ Tools & Technologies
+Designing data models for analytics use cases
 
-- Cloud Platforms: AWS  
-- Operating Systems: Linux  
-- Networking: TCP/IP, DNS, HTTP, basic routing  
-- Infrastructure & Automation: Terraform (learning), Bash  
-- Version Control: Git & GitHub
+Working with relational databases and data warehousing concepts
+
+Documenting all projects and workflows on GitHub
+
+## 🛠 Tools & Technologies
+
+Programming: Python, SQL
+
+Databases: PostgreSQL, MySQL, SQL Server
+
+Data Processing: Pandas, NumPy
+
+Data Engineering: ETL, ELT, Data Modeling, Data Warehousing
+
+Big Data (Learning): Apache Spark
+
+Version Control: Git & GitHub
 
 
 ## 📫 How to reach me?
